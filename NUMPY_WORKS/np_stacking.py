@@ -9,3 +9,5 @@ print(v_stack_array)
 # horizontal stacking
 h_stack_array=np.hstack((arr1,arr2))
 print(h_stack_array)
+
+
